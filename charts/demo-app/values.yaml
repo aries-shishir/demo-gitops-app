@@ -1,0 +1,8 @@
+replicaCount: 1
+
+image:
+  repository: shishirraj/local-demo-app
+  tag: v1
+
+service:
+  port: 80
